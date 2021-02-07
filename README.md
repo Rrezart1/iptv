@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://nmk-post.com/SA IPTV.png",SA IPTV
-https://nmk-post.com/preview.mp4
-
---Kombetare
-
 #EXTINF:-1  group-title="Kombetare" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/250px-Top_Channel.svg.png",TOP CHannel HD
 http://rv.therevenge.co:80/live/242424/242424/82186.m3u8?checkedby:hlscat.com
 #EXTINF:-1 group-title="Kombetare" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/250px-Top_Channel.svg.png",  TOP CHANNEL 
